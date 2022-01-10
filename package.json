@@ -1,0 +1,17 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "GLOBALS - NO WINDOW",
+  "main": "1-intro.js",
+  "dependencies": {
+    "bootstrap": "^5.1.3",
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": []
+}
